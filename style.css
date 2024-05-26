@@ -390,7 +390,9 @@ section .button button:hover{
   text-align: center;
   margin: auto;
 }
-
+.paper .button a {
+  margin: 0 10px; /* Add horizontal space between the buttons */
+}
 
 /* Contact Me CSS */
 .contact{
